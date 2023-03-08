@@ -1,0 +1,70 @@
+.Home{
+    height:100vh;
+}
+.HomePage{
+    height:100vh;
+    color:rgb(255, 255, 255);
+    background-color:rgb(136, 61, 221) ;
+}
+.HomeHeading{
+    font-family: "Roboto";
+    font-weight: bold;
+}
+.HomeDetails{
+    font-family: "Roboto";
+}
+.HomeInfo{
+    font-weight: bold;
+}
+.HomeImage{
+    height: 200px;
+    width: 200px;
+    border-radius: 100%;
+}
+#AboutMe{
+    height:100vh;
+    background-color:rgb(237, 180, 255);
+    color:rgb(87, 85, 83);
+    font-weight:bold;
+}
+.AboutMeMain{
+    padding-top:150px;
+}
+.AboutContent{
+    color:rgb(87, 85, 83);
+    font-weight:bold;
+}
+#Footer{
+    height: 60vh;
+    padding-top: 160px;
+    padding-left:40%;
+    background-color:rgb(65, 64, 63)
+}
+.fab{
+    background-color:rgb(253, 253, 255);
+    color:rgb(116, 113, 110);
+    border-radius:100%;
+    font-size:30px;
+    padding:10px;
+    height:50px;
+    width:50px;
+    text-align:center;
+    margin:10px;
+}
+.icons{
+    padding-left:20%;
+}
+.fas{
+    background-color:rgb(253, 253, 255);
+    color:rgb(116, 113, 110);
+    font-size:30px;
+    border-radius:100%;
+    padding:10px;
+    height:50px;
+    width:50px;
+    text-align:center;
+    margin:10px;
+}
+.ending{
+    color:#ffffff;
+}
